@@ -11,8 +11,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
-lib64/
 parts/
 sdist/
 var/
@@ -23,6 +21,7 @@ wheels/
 .venv/
 venv/
 ENV/
+!frontend/src/lib/
 
 # Testing & Cache
 .pytest_cache/
